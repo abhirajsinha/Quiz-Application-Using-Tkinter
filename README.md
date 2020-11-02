@@ -2,5 +2,5 @@
 
 
 Just Open this file any Python Intrepreter (Spyder,Jupyer etc)
-Everything is done already Just run it and enjoy:)
+Everything is done already Just run it:)
 Thanks:)
